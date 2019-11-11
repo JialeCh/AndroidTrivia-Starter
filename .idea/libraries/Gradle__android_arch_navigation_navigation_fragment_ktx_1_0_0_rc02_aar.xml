@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: android.arch.navigation:navigation-fragment-ktx:1.0.0-rc02@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/880cee2595138072e73b74ea94c9177d/jetified-navigation-fragment-ktx-1.0.0-rc02/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/880cee2595138072e73b74ea94c9177d/jetified-navigation-fragment-ktx-1.0.0-rc02/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/bee5384a33ba53d90a25c044f9179003/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/bee5384a33ba53d90a25c044f9179003/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/android.arch.navigation/navigation-fragment-ktx/1.0.0-rc02/f1f9c95dbec6af1064f09f8e8627a48abc9b3c3e/navigation-fragment-ktx-1.0.0-rc02-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/android.arch.navigation/navigation-fragment-ktx/1.0.0-rc02/f1f9c95dbec6af1064f09f8e8627a48abc9b3c3e/navigation-fragment-ktx-1.0.0-rc02-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
